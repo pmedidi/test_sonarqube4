@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/action_sort_name_ascending"
+        android:title="Sort by Name Ascending" />
+    <item
+        android:id="@+id/action_sort_name_descending"
+        android:title="Sort by Name Descending" />
+    <item
+        android:id="@+id/action_sort_calories_ascending"
+        android:title="Sort by Calories Ascending" />
+    <item
+        android:id="@+id/action_sort_calories_descending"
+        android:title="Sort by Calories Descending" />
+    <!-- Add other sorting options if needed -->
+</menu>

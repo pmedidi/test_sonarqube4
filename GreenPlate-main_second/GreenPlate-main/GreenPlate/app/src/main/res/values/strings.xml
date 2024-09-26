@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">GreenPlate</string>
+
+    <string name="navigation_drawer_open">Open Navigation Drawer</string>
+    <string name="navigation_drawer_close">Close Navigation Drawer</string>
+
+    <string name="title_home">Home</string>
+    <string name="title_input_meal">Input Meals</string>
+    <string name="title_ingredient">Ingredients</string>
+    <string name="title_recipe">Recipes</string>
+    <string name="title_shopping_list">Shop List</string>
+    <string name="title_personal_info">My Profile</string>
+    <string name="title_sign_out">Sign Out</string>
+</resources>
